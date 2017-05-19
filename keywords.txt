@@ -1,0 +1,20 @@
+#######################################
+# Syntax Coloring Map For ADSWeather
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ADSWeather	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getRain				KEYWORD2
+getWindDirection	KEYWORD2
+getWindSpeed		KEYWORD2
+getWindGust			KEYWORD2
+update				KEYWORD2
+
