@@ -37,7 +37,7 @@ ADSWeather::ADSWeather(int rainPin, int windDirPin, int windSpdPin)
   //Initialization routine
   _anemometerCounter = 0;
   _rainCounter = 0;
-  _gustIDX = 0
+  _gustIdx = 0;
   _vaneSampleIdx = 0;
   
   _rainPin = rainPin;
