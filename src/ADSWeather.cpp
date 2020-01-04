@@ -162,7 +162,7 @@ int ADSWeather::_readWindSpd()
 	
 	long spd = 14920;
 	spd *= _anemometerCounter;
-	spd /= 1000;
+	spd /= 10000;
 	_anemometerCounter = 0;
 	if(_gustIdx > 29)
 	{
